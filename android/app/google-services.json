@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "570231216175",
+    "project_id": "chat-app-e15e1",
+    "storage_bucket": "chat-app-e15e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570231216175:android:c431343280984f1823ceda",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570231216175-391gvv36l62pgf9ojqshupkk122ao1mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2cKtagjCJcH4pbePc7jypzzvrhjXHXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570231216175-391gvv36l62pgf9ojqshupkk122ao1mj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570231216175-09i6c2mtsd2sd0aoplcrmudsg9opc2cc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatFire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
